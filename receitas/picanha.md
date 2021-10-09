@@ -1,9 +1,9 @@
-#Receita Picanha Assada
-##Ingredientes
+<h1>Receita Picanha Assada</h1>
+<h2>Ingredientes</h2>
 ### - Uma peça de picanha de aproximadamente 800g cortada na terceira veia;
 ### - Sal grosso a gosto;
 ### - Tempeiros a gosto.
-##Modo de Preparo
+<h2>Modo de Preparo</h2>
 ### 1 Coloque a peça na grelha sob um braseiro forte;
 ### 2 Quando a carne chegar no ponto ideial (pessoal), vire e deixe assar o outro lado. 
 ### 3 Asse até que a gordura esteja bem dourada.
