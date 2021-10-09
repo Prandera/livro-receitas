@@ -1,3 +1,7 @@
-#Guia do Churrasqueiro
-##Olá! Bem viindo ao guia para churrasqueiros!
-###Picanha
+# Guia do Churrasqueiro :meat_on_bone:
+
+## Olá! Seja bem vindo ao guia para churrasqueiros!
+
+- ### Picanha
+
+- ### Costela
