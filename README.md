@@ -2,6 +2,8 @@
 
 ## Olá! Seja bem vindo ao guia para churrasqueiros!
 
+### Receitas:
+
 - ### Picanha
 
 - ### Costela
